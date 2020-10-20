@@ -1,95 +1,73 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: RJ Kanson
+full_name: RJ Kanson
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+# github_url: https://github.com/rkanson/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* I value **collaboration**. A single person can only accomplish so much, but a team working together can accomplish anything.
+* I value **humor**. I'd prefer to be assigned a tough task with a funny joke rather than an easy task with a boring routine.
+* I value **experimenting**. I learn best by trying out different things first, ***then*** reading the documentation.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+* If applicable, I like to communicate in gifs. A picture is worth a thousand words as they say, and I'm not quite that eloquent.
+* Organization is my lifeline. I can get overwhelmed quickly if I have too many notifications/alerts. Especially if there are multiple notifications for the same thing within different avenues (Slack, Email, etc.)
+* I'm, like George, *curious* and need to understand how a function/method/program works rather than just seeing *abstracted magic*. I prefer the magic stays at birthday parties & Vegas.
 
 ## Receiving Feedback & Recognition
 
 How do you best receive feedback, be it positive or negative?
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+* For **positive** feedback, any avenue is acceptable. Sharing positive feedback amongst a group helps spread that happy vibe to everyone!
+* For **negative** feedback, I prefer a 1:1. As with the previous, sharing negative feedback publicly kinda bums people out in my opinion.
+* For **recognition**, see **positive** feedback notes.
 
 ## Work Patterns
 
 What hours do you usually work?
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+* My primary timezone is **EST** -- New York time.
+* As a fully **remote** worker I can be pretty flexible, but I like to keep within a (9-10) to (5-6) EST if possible.
+
+When do you prefer to work alone, versus in groups?
+ 
+* I'm open to working in groups if anyone asks/prefers to work that way, but am totally okay with going solo for some time.
+
+How do your energy levels fluctuate throughout the day?
+
+* I've got **severe** caffeine addiction, so excuse any foggy-brain I may have in the early mornings. Luckily, with timezone differences though, I may be reaching peak alertness once everyone else starts to get up!
+* I accidentally started doing **IF (Intermittent Fasting)** in college, and have kept it up since then, so lunch breaks are super important to me. Coffee can help me push through my mornings, but if I don't eat by 1/2pm EST, I'll be of no use to anyone.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+* If you need me, **Slack** is your best bet.
+* As with many Engineers, my email inbox is **flooded** with alerts and notifications. I try to trim where I can with filters, but I'm only human.
 
+How should people best get your attention for urgent matters outside of normal working hours?
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+* **Slack** first, **text** second.
 
-## How To Know I’ve Gone To The Dark Side
+What’s your relationship to work communication when not at work?
 
-### Warning Signs
+* I’ll do what I can to respond upon availability.
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+What are your signs that you’d prefer to not be interrupted when at work?
 
-### How to help
-
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
-
-## Me Being Me
-
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
-
-## Pet Peeves
-
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
-
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
-
-## Career Goals & Future Interests
-
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
-
-## Areas for Development
-
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+* I try to set my Slack status accordingly -- and try to automate it to set it for things like meetings.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+* Batman
+* Dogs
+* eSports (FPS focused, not super into MOBA's)
+* Gaming in general (**LOVE** well written single-player rpgs. Uncharted, Horizon, Witcher, etc.)
+* Personal finances (Love making reactive spreadsheets, especially for budgets)
