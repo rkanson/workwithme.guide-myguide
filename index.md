@@ -6,7 +6,7 @@ full_name: RJ Kanson
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/rkanson/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-picture: ./profile.jpg
+picture: ./profile.jpeg
 # To add your name to the front page list, uncomment below
 categories: [profile]
 ---
